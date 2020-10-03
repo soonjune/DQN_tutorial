@@ -1,7 +1,7 @@
 import gym
 import matplotlib.pyplot as plt
 import numpy as np
-from q_learning_agent import Agent
+from naive_qlearning.q_learning_agent import Agent
 
 
 if __name__ == '__main__':
